@@ -1,0 +1,10 @@
+flask
+transformers
+datasets
+pandas
+sklearn
+requests
+beautifulsoup4
+playwright
+Sastrawi
+urllib3
